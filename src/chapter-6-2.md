@@ -1,5 +1,4 @@
-Chapter 6: Virtual Communication and Collaboration: Video Conferencing and Messaging Platforms
-==============================================================================================
+# Video Conferencing and Messaging Platforms
 
 Virtual communication and collaboration are essential components of delivering legal services in a distributed workplace. Video conferencing and messaging platforms have become increasingly popular tools for lawyers to communicate with clients and collaborate with colleagues.
 

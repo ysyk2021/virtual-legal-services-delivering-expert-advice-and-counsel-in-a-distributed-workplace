@@ -1,5 +1,4 @@
-Chapter 7: Providing Virtual Legal Advice and Counsel: Drafting and Reviewing Legal Documents
-=============================================================================================
+# Drafting and Reviewing Legal Documents
 
 Drafting and reviewing legal documents is a critical component of virtual legal services. In this chapter, we will explore practical advice for providing virtual legal advice and counsel in the context of drafting and reviewing legal documents.
 

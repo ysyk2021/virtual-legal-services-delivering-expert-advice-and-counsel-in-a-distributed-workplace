@@ -1,5 +1,4 @@
-Chapter 5: Legal Research and Analysis: Online Legal Databases and Resources
-============================================================================
+# Online Legal Databases and Resources
 
 Legal research and analysis are essential components of delivering virtual legal services. Lawyers need to access up-to-date legal information, analyze legal issues, and provide expert advice to clients. In this chapter, we will explore the use of online legal databases and resources as a tool for conducting legal research and analysis in a virtual environment.
 

@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Virtual Legal Services: Maintaining Confidentiality and Privacy
-====================================================================================================
+# Maintaining Confidentiality and Privacy
 
 As virtual legal services become more prevalent, it is important for lawyers to consider the ethical implications of delivering legal advice and counsel in a distributed workplace. One of the primary concerns is maintaining confidentiality and privacy.
 

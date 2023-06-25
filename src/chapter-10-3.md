@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Future Directions for Research and Practice
-===================================================================
+# Future Directions for Research and Practice
 
 In this book, we have explored the benefits and challenges of virtual legal services in a distributed workplace, as well as practical techniques for delivering expert advice and counsel. In this final chapter, we provide some future directions for research and practice in virtual legal services.
 

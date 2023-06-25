@@ -1,5 +1,4 @@
-Chapter 6: Virtual Communication and Collaboration: Document Management and Sharing
-===================================================================================
+# Document Management and Sharing
 
 Effective communication and collaboration are essential components of delivering virtual legal services. Lawyers need to share documents securely, collaborate with colleagues and clients remotely, and manage versions of documents efficiently. In this chapter, we will explore the use of document management and sharing tools as a tool for virtual communication and collaboration.
 

@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Virtual Legal Services: Techniques for Addressing Ethical Considerations
-=============================================================================================================
+# Techniques for Addressing Ethical Considerations
 
 Virtual legal services present unique ethical considerations related to communication and collaboration, data security and confidentiality, and professional responsibility. In this chapter, we will explore techniques for addressing these ethical considerations.
 

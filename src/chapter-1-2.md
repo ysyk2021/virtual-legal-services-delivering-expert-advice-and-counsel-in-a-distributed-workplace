@@ -1,5 +1,4 @@
-Chapter 1: Introduction: The Benefits and Challenges of Delivering Legal Services in a Distributed Workplace
-============================================================================================================
+# The Benefits and Challenges of Delivering Legal Services in a Distributed Workplace
 
 Virtual legal services are transforming the legal industry, offering new opportunities for delivering expert advice and counsel in a distributed workplace. In this chapter, we will explore the benefits and challenges of delivering legal services in a distributed workplace.
 

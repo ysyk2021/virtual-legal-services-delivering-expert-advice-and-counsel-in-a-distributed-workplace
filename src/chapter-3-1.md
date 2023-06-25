@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Legal Landscape: Techniques for Understanding the Legal Landscape
-==============================================================================================
+# Techniques for Understanding the Legal Landscape
 
 Understanding the legal landscape is critical for virtual legal services to deliver expert advice and counsel in a distributed workplace. In this chapter, we will explore practical techniques for understanding the legal landscape.
 

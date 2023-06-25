@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Virtual Legal Services: Avoiding Conflicts of Interest
-===========================================================================================
+# Avoiding Conflicts of Interest
 
 One of the key ethical considerations for lawyers delivering virtual legal services is avoiding conflicts of interest. Conflicts of interest occur when a lawyer's personal or professional interests conflict with their duty to act in the best interests of their client. In a virtual environment, it can be challenging to identify and avoid conflicts of interest.
 

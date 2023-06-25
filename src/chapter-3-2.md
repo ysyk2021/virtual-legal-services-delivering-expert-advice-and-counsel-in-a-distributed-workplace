@@ -1,5 +1,4 @@
-Chapter 3: Understanding the Legal Landscape: Types of Legal Services
-=====================================================================
+# Types of Legal Services
 
 To understand the legal landscape, it's important to be familiar with the different types of legal services available. In this chapter, we will explore some common types of legal services.
 

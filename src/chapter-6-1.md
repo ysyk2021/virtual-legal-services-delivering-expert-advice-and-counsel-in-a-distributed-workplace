@@ -1,5 +1,4 @@
-Chapter 6: Virtual Communication and Collaboration: Techniques for Communicating and Collaborating Virtually
-============================================================================================================
+# Techniques for Communicating and Collaborating Virtually
 
 Virtual communication and collaboration are essential components of delivering legal services in a distributed workplace. Effective virtual communication and collaboration require the use of appropriate techniques to ensure that lawyers can effectively communicate with clients and collaborate with colleagues.
 

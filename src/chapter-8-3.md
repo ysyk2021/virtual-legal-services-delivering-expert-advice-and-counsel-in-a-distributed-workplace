@@ -1,5 +1,4 @@
-Chapter 8: Billing and Client Management: CRM Software and Client Portals
-=========================================================================
+# CRM Software and Client Portals
 
 Effective billing and client management are essential components of delivering virtual legal services. Lawyers need to keep track of their time, bill clients accurately, and manage client information securely. In this chapter, we will explore two key tools for managing billing and client information in a virtual environment: CRM software and client portals.
 
