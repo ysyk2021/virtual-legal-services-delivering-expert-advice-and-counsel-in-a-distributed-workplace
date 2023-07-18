@@ -8,5 +8,4 @@ Our contributors are experts in the field, with years of experience in virtual l
 
 If you're looking to expand your legal practice beyond the traditional brick-and-mortar office, "Virtual Legal Services: Delivering Expert Advice and Counsel in a Distributed Workplace" is the ultimate guide to making the transition to a more flexible, efficient, and innovative way of practicing law.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
