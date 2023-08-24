@@ -1,5 +1,3 @@
-Chapter 8: Billing and Client Management
-========================================
 
 Billing and client management are crucial components of any legal practice, including virtual legal services. In this chapter, we will explore practical techniques for managing billing and clients virtually, as well as online payment platforms, CRM software, and client portals.
 

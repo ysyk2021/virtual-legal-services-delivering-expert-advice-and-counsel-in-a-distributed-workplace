@@ -1,5 +1,3 @@
-Chapter 9: Ethical Considerations in Virtual Legal Services
-===========================================================
 
 Delivering virtual legal services requires lawyers to be mindful of ethical considerations and ensure that they meet their ethical obligations to clients. In this chapter, we will explore some key ethical considerations for lawyers delivering virtual legal services.
 

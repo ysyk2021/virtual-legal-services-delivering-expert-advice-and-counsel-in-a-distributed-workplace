@@ -1,5 +1,3 @@
-Video Conferencing and Messaging Platforms
-=====================================================
 
 As the distributed workplace becomes increasingly common, video conferencing and messaging platforms have become essential tools for delivering virtual legal services. These platforms enable lawyers to connect with clients, collaborate with colleagues, and conduct meetings remotely. This chapter explores the benefits and considerations of using video conferencing and messaging platforms in the context of virtual legal services.
 

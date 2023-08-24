@@ -1,5 +1,3 @@
-Online Legal Databases and Resources
-===============================================
 
 In the digital age, staying updated with the latest legal information is crucial for legal professionals. Online legal databases and resources provide a wealth of information that can enhance legal research, streamline workflows, and facilitate informed decision-making. This chapter explores the benefits of using online legal databases and resources and provides guidance on how to effectively utilize them.
 

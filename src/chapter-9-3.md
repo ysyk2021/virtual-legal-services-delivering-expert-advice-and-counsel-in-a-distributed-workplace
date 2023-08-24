@@ -1,5 +1,3 @@
-Avoiding Conflicts of Interest
-==========================================
 
 Conflicts of interest are a critical concern for legal professionals providing virtual legal services in a distributed workplace. This chapter explores the importance of identifying and avoiding conflicts of interest in the virtual legal environment. By implementing robust conflict-checking procedures and adopting best practices, legal professionals can maintain ethical standards and protect the interests of their clients.
 

@@ -1,5 +1,3 @@
-The Impact of Technology on the Legal Industry
-=======================================================
 
 In this chapter, we will explore the profound impact that technology has had on the legal industry. The advancements in technology have revolutionized the way legal professionals work, enhancing efficiency, accessibility, and the delivery of legal services. We will examine various aspects of this impact and discuss the transformative effects of technology on the legal landscape.
 

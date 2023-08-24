@@ -1,5 +1,3 @@
-CRM Software and Client Portals
-==========================================
 
 In the era of virtual legal services, customer relationship management (CRM) software and client portals play a vital role in enhancing communication, collaboration, and efficiency. This chapter delves into the benefits, considerations, and best practices associated with leveraging CRM software and client portals in the context of virtual legal services.
 

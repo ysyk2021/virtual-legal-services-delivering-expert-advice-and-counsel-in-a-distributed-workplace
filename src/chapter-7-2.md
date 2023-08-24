@@ -1,5 +1,3 @@
-Conducting Virtual Consultations
-===========================================
 
 In today's distributed workplace, virtual consultations have become an essential component of delivering legal services remotely. This chapter explores the key considerations and best practices for conducting effective and successful virtual consultations. Whether you are a solo practitioner, part of a law firm, or legal department, mastering the art of virtual consultations is crucial for providing expert advice and counsel in a digital environment.
 

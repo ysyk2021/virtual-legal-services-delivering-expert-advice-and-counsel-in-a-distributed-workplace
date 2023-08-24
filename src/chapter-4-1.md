@@ -1,5 +1,3 @@
-Techniques for Leveraging Technology and Innovation in Legal Services
-==============================================================================
 
 In this chapter, we will explore various techniques for leveraging technology and innovation to enhance the delivery of legal services in a distributed workplace. As technology continues to advance, it is crucial for legal professionals to adapt and harness these tools in order to provide efficient, effective, and accessible legal support.
 

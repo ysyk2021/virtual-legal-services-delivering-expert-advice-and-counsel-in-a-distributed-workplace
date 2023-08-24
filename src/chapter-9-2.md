@@ -1,5 +1,3 @@
-Maintaining Confidentiality and Privacy
-================================================
 
 In this chapter, we will explore the importance of maintaining confidentiality and privacy when providing virtual legal services in a distributed workplace. As legal professionals embrace remote work and virtual practice, it is crucial to prioritize the protection of client information and maintain the highest standards of confidentiality.
 

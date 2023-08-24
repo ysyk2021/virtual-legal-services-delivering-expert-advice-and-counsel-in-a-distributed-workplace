@@ -1,5 +1,3 @@
-Chapter 5: Legal Research and Analysis
-======================================
 
 Legal research and analysis are critical components of virtual legal services. In this chapter, we will explore practical techniques for conducting legal research and analysis virtually, as well as online legal databases and resources, and analytical tools and software.
 

@@ -1,5 +1,3 @@
-Techniques for Conducting Legal Research and Analysis Virtually
-===========================================================================
 
 In today's digital age, conducting legal research and analysis virtually has become an essential skill for legal professionals. This chapter explores various techniques and tools that can enhance the efficiency and effectiveness of legal research in a distributed workplace. Whether you are a solo practitioner, part of a law firm, or a member of a legal department, mastering virtual legal research techniques is crucial for delivering expert advice and counsel to clients.
 

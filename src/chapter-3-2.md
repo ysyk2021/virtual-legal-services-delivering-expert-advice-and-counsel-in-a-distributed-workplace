@@ -1,5 +1,3 @@
-Types of Legal Services
-================================
 
 In this chapter, we will explore the various types of legal services that can be delivered through virtual platforms in a distributed workplace. From traditional advisory and representation services to innovative solutions leveraging technology, virtual legal services encompass a broad range of offerings tailored to meet the diverse needs of clients in the digital era.
 

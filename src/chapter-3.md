@@ -1,5 +1,3 @@
-Chapter 3: Understanding the Legal Landscape
-============================================
 
 Understanding the legal landscape is essential for virtual legal services to deliver expert advice and counsel in a distributed workplace. In this chapter, we will explore practical techniques for understanding the legal landscape, common types of legal services, and the importance of legal ethics and professional responsibility.
 

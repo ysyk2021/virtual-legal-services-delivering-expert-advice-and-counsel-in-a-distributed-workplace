@@ -1,5 +1,3 @@
-Chapter 6: Virtual Communication and Collaboration
-==================================================
 
 Effective communication and collaboration are critical for delivering high-quality legal services in a virtual environment. In this chapter, we will explore techniques and tools for communicating and collaborating virtually.
 
